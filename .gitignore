@@ -1,0 +1,15 @@
+## Build output
+bin/
+obj/
+
+## Test results
+TestResults/
+
+## IDE
+.vs/
+.idea/
+*.user
+*.userprefs
+
+## OS
+.DS_Store
